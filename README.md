@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ohhunkwon
-- 👀 I’m interested in chess, golf, films
 - 🌱 I’m currently learning full-stack javascript and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ohhunkwon@hotmail.com
 
 <!---
